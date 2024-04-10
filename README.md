@@ -1,4 +1,4 @@
-# Hópverkefni 2 í vefforritun 1
+# Vefforritunarbúðin (verkefni í vefforritun 1)
 
 Nafn: Helga Björg Helgadóttir
 Netfang: hbh54@hi.is
