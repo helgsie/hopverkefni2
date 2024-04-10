@@ -1,8 +1,6 @@
 # Vefforritunarbúðin
 
 Vefforritunarbúðin er verkefni sem ég vann í vefforritun 1 (TÖL107G) á haustönn 2023.
-    
-## Keyrsla á verkefni
 
 Hægt er að sjá vefsíðuna á eftirfarandi hlekk: https://vef-vefforritunarbudin.netlify.app
 
