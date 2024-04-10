@@ -1,10 +1,10 @@
-# Vefforritunarbúðin (verkefni í vefforritun 1)
+# Vefforritunarbúðin
 
 Nafn: Helga Björg Helgadóttir
 
 Netfang: hbh54@hi.is
 
-Github aðgangur: helgsie
+Vefforritunarbúðin er verkefni sem ég vann í vefforritun 1 (TÖL107G) á haustönn 2023.
     
 ## Keyrsla á verkefni
 
