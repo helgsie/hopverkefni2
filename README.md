@@ -1,15 +1,22 @@
 # Vefforritunarbúðin (verkefni í vefforritun 1)
 
 Nafn: Helga Björg Helgadóttir
+
 Netfang: hbh54@hi.is
+
 Github aðgangur: helgsie
     
 ## Keyrsla á verkefni
 
+Hægt er að sjá vefsíðuna á eftirfarandi hlekk: https://vef-vefforritunarbudin.netlify.app
+
 Til að keyra verkefnið: npm run dev
+
 Til að linta verkefnið: npm run lint
 
 ### Uppsetning verkefnis
+
+Útlit vefsíðunnar er eftir fyrirmynd sem kennari útvegaði nemendum.
 
 HTML-ið er búið til í javascript og því er body í index.html skjalinu tómt.
 
