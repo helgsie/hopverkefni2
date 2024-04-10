@@ -4,9 +4,9 @@ Vefforritunarbúðin er verkefni sem ég vann í vefforritun 1 (TÖL107G) á hau
 
 Hægt er að sjá vefsíðuna á eftirfarandi hlekk: https://vef-vefforritunarbudin.netlify.app
 
-Til að keyra verkefnið: npm run dev
+Til að keyra verkefnið: ```npm run dev```
 
-Til að linta verkefnið: npm run lint
+Til að linta verkefnið: ```npm run lint```
 
 ### Uppsetning verkefnis
 
